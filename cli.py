@@ -2,7 +2,8 @@ def load_logins():
     logins = dict()
 
 
-    print("Код из второго репозитория")
+    print("Код из первого репозитория")
+    # print("Код из второго репозитория")
 
     with open('logins.txt') as logins_file:
         for line in logins_file:
