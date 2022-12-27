@@ -1,111 +1,145 @@
-
-
 <!DOCTYPE html>
-
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Word Document</title>
-    <link href="http://intranet18/Content/print.css" rel="stylesheet"/>
-
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Word Document</title>
+	<meta name="generator" content="LibreOffice 7.4.2.3 (Windows)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2022-12-27T19:10:32.987000000"/>
+	<meta name="viewport" content="width=device-width"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }
+		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
+		h5 { margin-top: 0.08in; margin-bottom: 0.04in; background: transparent; page-break-after: avoid }
+		h5.western { font-family: "Liberation Serif", serif; font-size: 10pt; font-weight: bold }
+		h5.cjk { font-family: "NSimSun"; font-size: 10pt; font-weight: bold }
+		h5.ctl { font-family: "Arial"; font-size: 10pt; font-weight: bold }
+		h2 { margin-top: 0.14in; margin-bottom: 0.08in; background: transparent; page-break-after: avoid }
+		h2.western { font-family: "Liberation Serif", serif; font-size: 18pt; font-weight: bold }
+		h2.cjk { font-family: "NSimSun"; font-size: 18pt; font-weight: bold }
+		h2.ctl { font-family: "Arial"; font-size: 18pt; font-weight: bold }
+		td p { orphans: 0; widows: 0; background: transparent }
+		th p { font-weight: bold; text-align: center; orphans: 0; widows: 0; background: transparent }
+		strong { font-weight: bold }
+	</style>
 </head>
-<body>
-    <div>
-        
-
-
-<div class="printform">
-<h5 class="text-center d-none d-print-block">
-    федеральное государственное автономное образовательное учреждение высшего образования
-    <br />
-    &laquo;Санкт-Петербургский политехнический университет Петра Великого&raquo;
-    <br />
-    Институт дополнительного образования
-    <br />
-    Высшая инженерная школа
+<body lang="en-AU" link="#000080" vlink="#800000" dir="ltr"><h5 class="western">
+федеральное государственное автономное
+образовательное учреждение высшего
+образования <br/>
+«Санкт-Петербургский
+политехнический университет Петра
+Великого» <br/>
+Институт дополнительного
+образования <br/>
+Высшая инженерная школа
 </h5>
-
-    <h2 class="text-center py-3">Экзаменационная/зачетная ведомость № _______</h2>
-
-<p>Дополнительная образовательная программа<br />
-    <strong>&laquo;Программист (Язык Python)&raquo;</strong></p>
-
-<p>Группа: №18971 <strong>&laquo;ПП.Программист (язык Python) [весна 2022-9/2]&raquo;</strong></p>
-
+<h2 class="western">Экзаменационная/зачетная
+ведомость № _______</h2>
+<p>Дополнительная образовательная
+программа<br/>
+<strong>«Программист (Язык
+Python)»</strong></p>
+<p>Группа: №18971 <strong>«ПП.Программист (язык
+Python) [весна 2022-9/2]»</strong></p>
 <p>Даты занятий: 01.03.2022 - 04.03.2023</p>
-
-<p>Дисциплина: DEV-PYQT. Разработка оконных приложений Python c использованием Qt </p>
-
-<p>Преподаватель: Харченко Владислав Алексеевич</p>
-
-    <p>Дата проведения экзамена/зачета: _____________________</p>
-
-    <table class="table table-bordered mt-5">
-        <tr>
-            <th class="w-5">№</th>
-            <th>Фамилия, имя, отчество обучающегося</th>
-            <th class="w-15">Экзаменационная оценка/ отметка о сдаче зачета</th>
-            <th class="w-15">Подпись преподавателя</th>
-            <th class="w-15">Дата</th>
-        </tr>
-
-
-        <tr>
-            <td>1.</td>
-            <td>Аль-Холиди София Мохамедовна</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td>Кунгурцев Павел Александрович</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td>Лещинер Анна Сергеевна</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td>Оленев Никита Александрович</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>5.</td>
-            <td>Петухова Дарья Андреевна</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>6.</td>
-            <td>Самовол Евгений Владимирович</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7.</td>
-            <td>Скрыпник Дмитрий Юрьевич</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </table>
-
-    <p class="mt-5">Директор ВИШ ИДО Кудаков А.В. _____________________</p>
-
-    <p>&laquo;______&raquo; _____________________ 20______г.</p>
-
-</div>
-    </div>  
+<p>Дисциплина: DEV-PYQT. Разработка оконных
+приложений Python c использованием Qt 
+</p>
+<p>Преподаватель: Харченко Владислав
+Алексеевич</p>
+<p>Дата проведения экзамена/зачета:
+_____________________</p>
+<table cellpadding="2" cellspacing="2">
+	<tr>
+		<th style="border: none; padding: 0in"><p>№</p>
+		</th>
+		<th style="border: none; padding: 0in"><p>Фамилия, имя,
+			отчество обучающегося</p>
+		</th>
+		<th style="border: none; padding: 0in"><p>Экзаменационная
+			оценка/ отметка о сдаче зачета</p>
+		</th>
+		<th style="border: none; padding: 0in"><p>Подпись
+			преподавателя</p>
+		</th>
+		<th style="border: none; padding: 0in"><p>Дата</p>
+		</th>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>1.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Аль-Холиди София
+			Мохамедовна</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>2.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Кунгурцев Павел
+			Александрович</p>
+		</td>
+		<td style="border: none; padding: 0in"><p lang="ru-RU"><font size="3" style="font-size: 12pt">Зачёт</font></p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>3.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Лещинер Анна
+			Сергеевна</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>4.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Оленев Никита
+			Александрович</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>5.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Петухова Дарья
+			Андреевна</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>6.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Самовол Евгений
+			Владимирович</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0in"><p>7.</p>
+		</td>
+		<td style="border: none; padding: 0in"><p>Скрыпник Дмитрий
+			Юрьевич</p>
+		</td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+		<td style="border: none; padding: 0in"></td>
+	</tr>
+</table>
+<p>Директор ВИШ ИДО Кудаков А.В.
+_____________________</p>
+<p>«______» _____________________ 20______г.</p>
 </body>
 </html>
