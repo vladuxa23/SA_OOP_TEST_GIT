@@ -1,5 +1,9 @@
 def load_logins():
     logins = dict()
+
+
+    print("Код")
+
     with open('logins.txt') as logins_file:
         for line in logins_file:
             line = line.strip()
