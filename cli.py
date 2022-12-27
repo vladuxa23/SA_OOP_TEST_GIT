@@ -1,7 +1,7 @@
 def load_logins():
     logins = dict()
 
-
+    print('status')
     print("Код из первого репозитория")
     # print("Код из второго репозитория")
 
